@@ -4,9 +4,10 @@
 #include <stdbool.h>
 
 // Código da Ilha – Edição Free Fire
-// Nível: Mestre
-// Este programa simula o gerenciamento avançado de uma mochila com componentes coletados durante a fuga de uma ilha.
-// Ele introduz ordenação com critérios e busca binária para otimizar a gestão dos recursos.
+// Nível: Novato
+// Este programa adiciona itens à mochila (nome, tipo e quantidade)
+// Remover itens pelo nome
+// Listar os itens cadastrados
 
 int main() {
     // Menu principal com opções:
