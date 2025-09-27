@@ -4,7 +4,7 @@
 
 #define MAX_ITENS 10
 
-// Struct do item
+// Struct do ite 
 typedef struct {
     char nome[30];
     char tipo[20];
